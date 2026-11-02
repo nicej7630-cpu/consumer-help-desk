@@ -14,7 +14,7 @@ const firebaseConfig = {
   storageBucket: "consumer-help-desk.firebasestorage.app",
   messagingSenderId: "527227665586",
   appId: "1:527227665586:web:b94129a3d2e7c536945dab",
-  measurementId: "G-3FX15Q045P"
+  measurementId: "G-3FX15Q035P"
 };
 
 // The one admin account. Set this to the email you will sign in with.
