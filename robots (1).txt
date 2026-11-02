@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /consumer-admin.html
+
+Sitemap: https://consumerhelp.live/sitemap.xml
